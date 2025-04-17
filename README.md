@@ -10,7 +10,7 @@ This project showcases how to build an intelligent automation system using **Oll
 - 🧠 Automates tasks via natural language prompts
 - 🛠️ Easily extendable for custom automation workflows
 
-## 📸 Demo
+## 📸 Screenshots
 ![Screenshot 2025-04-17 225633](https://github.com/user-attachments/assets/02503391-9cc6-421b-8ce1-70e670415135)
 
 ![Screenshot 2025-04-17 225709](https://github.com/user-attachments/assets/d679707b-914f-4499-b350-01b59a8c7608)
@@ -19,7 +19,7 @@ This project showcases how to build an intelligent automation system using **Oll
 
 ### Prerequisites
 
-- Python 3.x
+- Python
 - [Ollama](https://ollama.com/) installed and running
 - Required Python libraries
 
