@@ -30,4 +30,4 @@ This project showcases how to build an intelligent automation system using **Oll
 
 ## 🙋‍♀️ Author
 Yukti Nadhe
-Aspiring ML Engineer | Passionate about AI + Automation
+- Aspiring ML Engineer | Passionate about AI + Automation
