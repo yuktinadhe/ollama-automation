@@ -1,4 +1,4 @@
-# 🤖 Automation using Ollama and Gradio
+## 🤖 Automation using Ollama and Gradio
 
 This project showcases how to build an intelligent automation system using **Ollama** and **Gradio**. With this setup, users can interact with an LLM through a clean and responsive web interface — all running locally.
 
@@ -17,7 +17,7 @@ This project showcases how to build an intelligent automation system using **Oll
 
 ![Screenshot 2025-04-17 225825](https://github.com/user-attachments/assets/da64539d-1734-4966-868f-2668ccd175a9)
 
-### Prerequisites
+## Prerequisites
 
 - Python
 - [Ollama](https://ollama.com/) installed and running
