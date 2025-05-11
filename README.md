@@ -1,6 +1,6 @@
 # 🤖 Automation using Ollama and Gradio
 
-This project showcases how to build an intelligent automation system using **Ollama** (a local Large Language Model) and **Gradio** (a simple web UI framework). With this setup, users can interact with an LLM through a clean and responsive web interface — all running locally.
+This project showcases how to build an intelligent automation system using **Ollama** and **Gradio**. With this setup, users can interact with an LLM through a clean and responsive web interface — all running locally.
 
 ## 🚀 Features
 
